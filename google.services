@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1008003207554",
+    "firebase_url": "https://lojaflutter-2111b-default-rtdb.firebaseio.com",
+    "project_id": "lojaflutter-2111b",
+    "storage_bucket": "lojaflutter-2111b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008003207554:android:ffe2145e9fa0583333bf9b",
+        "android_client_info": {
+          "package_name": "br.com.despertar.loja1.loja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuO5xYP5fcBerG3I_zdeS0wasW5hXXc-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
